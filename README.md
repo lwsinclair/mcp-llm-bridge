@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bartolli-mcp-llm-bridge-badge.png)](https://mseep.ai/app/bartolli-mcp-llm-bridge)
+
 # MCP LLM Bridge
 
 A bridge connecting Model Context Protocol (MCP) servers to OpenAI-compatible LLMs. Primary support for OpenAI API, with additional compatibility for local endpoints that implement the OpenAI API specification.
